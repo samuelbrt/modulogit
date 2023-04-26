@@ -1,4 +1,1 @@
-alou 
-meu primeiro sistema em git
-
-eita
+Meu primeiro estudo em git
